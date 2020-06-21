@@ -12,11 +12,11 @@ A função de Bessel é obtida a partir da solução de uma equação diferencia
 **Análise de sinais modulados em frequência (FM);**
 **Condução de calor;**
 **Vibração;**
-**Difusão.**
-**Processamento de sinais - filtro Bessel.**
-**Soluções para a Equação de Schrödinger radial (em coordenadas esféricas e cilíndricas) de uma partícula livre.**
-**Solução para os padrões de radiação acústica.**
-**atrito em função da frequência em condutas circulares.**
-**A dinâmica de corpos flutuantes.**
-
-<ref>{{citar web|URL = https://en.wikipedia.org/wiki/Bessel_function|título = Bessel function|data = |acessadoem = |autor = |publicado = }}</ref>
+**Difusão;**
+**Processamento de sinais - filtro Bessel;**
+**Soluções para a Equação de Schrödinger radial (em coordenadas esféricas e cilíndricas) de uma partícula livre;**
+**Solução para os padrões de radiação acústica;**
+**atrito em função da frequência em condutas circulares;**
+**A dinâmica de corpos flutuantes;**
+Difração de objetos helicoidais, incluindo DNA;
+Função densidade de probabilidade do produto de duas variáveis aleatórias normalmente distribuídas.
