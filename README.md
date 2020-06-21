@@ -1,2 +1,2 @@
-# Fun-o-de-Bessel-de-primeira-ordem-em-Python
+# Fun-o-de-Bessel-em-Python
 Física Computacional
