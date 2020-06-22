@@ -1,13 +1,13 @@
 # Função de Bessel em Python
 
 ## Descrição do Projeto
-Este é um projeto de Métodos Computacionais em Físca que se basei em solucionar a equação de Bessel usando a linguagem Python.
+Este é um projeto de Métodos Computacionais em Física que se baseia em solucionar a equação de Bessel usando a linguagem Python.
 
 ## Teoria 
 A Função de Bessel, foi definida pela primeira vez por Daniel Bernoulli e generalizada por Friedrich Bessel. 
 A função de Bessel é obtida a partir da solução de uma equação diferencial de segunda ordem.
 
-A equação de Bessel surge ao encontrar soluções separáveis para a equação de Laplace e a equação de Helmholtz em coordenadas cilíndricas ou esféricas. As funções de Bessel são, portanto, especialmente importantes para muitos problemas de propagação de ondas e potenciais estáticos.
+Esta equação surge ao encontrar soluções separáveis para a equação de Laplace e a equação de Helmholtz em coordenadas cilíndricas ou esféricas. As funções de Bessel são, portanto, especialmente importantes para muitos problemas de propagação de ondas e potenciais estáticos.
 
 ## Aplicações
 - Solução das Equação de Laplace e Equação de Helmholtz, em coordenadas cilíndricas ou coordenadas esféricas|esféricas;
